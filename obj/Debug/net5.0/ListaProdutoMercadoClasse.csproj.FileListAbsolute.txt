@@ -1,0 +1,16 @@
+/home/anderson/Documentos/Devaria/C#/ListaProdutoMercadoClasse/bin/Debug/net5.0/ListaProdutoMercadoClasse
+/home/anderson/Documentos/Devaria/C#/ListaProdutoMercadoClasse/bin/Debug/net5.0/ListaProdutoMercadoClasse.deps.json
+/home/anderson/Documentos/Devaria/C#/ListaProdutoMercadoClasse/bin/Debug/net5.0/ListaProdutoMercadoClasse.runtimeconfig.json
+/home/anderson/Documentos/Devaria/C#/ListaProdutoMercadoClasse/bin/Debug/net5.0/ListaProdutoMercadoClasse.runtimeconfig.dev.json
+/home/anderson/Documentos/Devaria/C#/ListaProdutoMercadoClasse/bin/Debug/net5.0/ListaProdutoMercadoClasse.dll
+/home/anderson/Documentos/Devaria/C#/ListaProdutoMercadoClasse/bin/Debug/net5.0/ref/ListaProdutoMercadoClasse.dll
+/home/anderson/Documentos/Devaria/C#/ListaProdutoMercadoClasse/bin/Debug/net5.0/ListaProdutoMercadoClasse.pdb
+/home/anderson/Documentos/Devaria/C#/ListaProdutoMercadoClasse/obj/Debug/net5.0/ListaProdutoMercadoClasse.csprojAssemblyReference.cache
+/home/anderson/Documentos/Devaria/C#/ListaProdutoMercadoClasse/obj/Debug/net5.0/ListaProdutoMercadoClasse.GeneratedMSBuildEditorConfig.editorconfig
+/home/anderson/Documentos/Devaria/C#/ListaProdutoMercadoClasse/obj/Debug/net5.0/ListaProdutoMercadoClasse.AssemblyInfoInputs.cache
+/home/anderson/Documentos/Devaria/C#/ListaProdutoMercadoClasse/obj/Debug/net5.0/ListaProdutoMercadoClasse.AssemblyInfo.cs
+/home/anderson/Documentos/Devaria/C#/ListaProdutoMercadoClasse/obj/Debug/net5.0/ListaProdutoMercadoClasse.csproj.CoreCompileInputs.cache
+/home/anderson/Documentos/Devaria/C#/ListaProdutoMercadoClasse/obj/Debug/net5.0/ListaProdutoMercadoClasse.dll
+/home/anderson/Documentos/Devaria/C#/ListaProdutoMercadoClasse/obj/Debug/net5.0/ref/ListaProdutoMercadoClasse.dll
+/home/anderson/Documentos/Devaria/C#/ListaProdutoMercadoClasse/obj/Debug/net5.0/ListaProdutoMercadoClasse.pdb
+/home/anderson/Documentos/Devaria/C#/ListaProdutoMercadoClasse/obj/Debug/net5.0/ListaProdutoMercadoClasse.genruntimeconfig.cache
